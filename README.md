@@ -174,7 +174,7 @@ Created dashboards including:
 *	Review Score Distribution
 *	Late Delivery Trend
 *	Seller Performance Analysis
-![E-Commerce Analytics Dashboard](Assets/Seller&Delivery.png)
+![E-Commerce Analytics Dashboard](Assets/Seller.png)
 
 ## <u>**Stage 7 – Final Insights & Recommendations**<u>
 ### **Business Insights**
