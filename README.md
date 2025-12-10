@@ -117,7 +117,7 @@ I created SQL questions covering **all core and advanced SQL skills**:
 
 **2.	Top Product Category Analysis (Using CTEs & Joins)**
 **•	Business Question:** Which are the top 5 product categories generating the most gross revenue?
-![Alt Text for Accessibility](Assets/Product & Category.png)
+![Alt Text for Accessibility](Assets/Product&Category.png)
 
 **3.	Delivery Performance by State (Using CASE Statements & Joins)**
 **•	Business Question:** What is the average delivery time and the percentage of late deliveries for each customer state?
@@ -189,4 +189,5 @@ Created dashboards including:
 
 •	Pre-cleaning before loading into SQL
 •	Ensuring consistent data types
+
 
