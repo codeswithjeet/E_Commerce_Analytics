@@ -5,13 +5,13 @@
 
 ## **Project Overview**
 In this project I performed an **end-to-end analysis** of the Olist E-commerce dataset to understand Sales, Product, Customer, Order, Payment, Reviews, and Delivery insights. The analysis is divided into structured stages typically followed in real business environments:
-**1.	Understanding Business Requirement**
-**2.	Data Collection & Structure Understanding**
-**3.	Data Preprocessing & Data Cleaning (Excel + Power Query)**
-**4.	Data Modelling & SQL Analysis (MySQL)**
-**5.	Feature Table Creation for Power BI (using Views)**
-**6.	Dashboard Building (Power BI)**
-**7.	Insights, Interpretation & Recommendations**
+* **Understanding Business Requirement**
+* **Data Collection & Structure Understanding**
+* **Data Preprocessing & Data Cleaning (Excel + Power Query)**
+* **Data Modelling & SQL Analysis (MySQL)**
+* **Feature Table Creation for Power BI (using Views)**
+* **Dashboard Building (Power BI)**
+* **Insights, Interpretation & Recommendations**
 
 ## **Tools Used & Purpose**
 ### **Excel / Power Query**
@@ -187,6 +187,7 @@ Created dashboards including:
 *	**Launch a Strategic Q4 Sales Campaign** focused on promotions/discounts to stabilize order volume and prevent the year-end decline.
 *	**Investigate and address the 2018 Acquisition Decline** by reviewing marketing spend, competitive landscape, and channel performance during that period.
 *	**Shift Marketing Spend** to increase customer acquisition in states with lower CLV but high potential (e.g., MG, RS) to diversify the customer base.
+
 
 
 
