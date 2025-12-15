@@ -1,7 +1,7 @@
 # <u>E-Commerce Sales Analytics Project Documentation<u>
-**By:** **Jeet Sarkar**
-***Tools Used:** Excel, MySQL, Power BI
-***Dataset Credit:** Brazilian E-Commerce Public Dataset by Olist
+* **By:** **Jeet Sarkar**
+* **Tools Used:** Excel, MySQL, Power BI
+* **Dataset Credit:** Brazilian E-Commerce Public Dataset by Olist
 
 ## **Project Overview**
 In this project I performed an **end-to-end analysis** of the Olist E-commerce dataset to understand Sales, Product, Customer, Order, Payment, Reviews, and Delivery insights. The analysis is divided into structured stages typically followed in real business environments:
@@ -187,6 +187,7 @@ Created dashboards including:
 *	**Launch a Strategic Q4 Sales Campaign** focused on promotions/discounts to stabilize order volume and prevent the year-end decline.
 *	**Investigate and address the 2018 Acquisition Decline** by reviewing marketing spend, competitive landscape, and channel performance during that period.
 *	**Shift Marketing Spend** to increase customer acquisition in states with lower CLV but high potential (e.g., MG, RS) to diversify the customer base.
+
 
 
 
